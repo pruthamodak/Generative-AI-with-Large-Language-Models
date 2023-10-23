@@ -1,5 +1,5 @@
 # Generative AI with Large Language Models 
-[Coursera Certificate](Coursera_Generative-AI-with-Large-Language-Models.pdf)
+[Coursera Certificate](https://www.coursera.org/account/accomplishments/verify/26X8X72D6M5X)
 
 ## Week 1 Lab: 
 Pre-training and Prompt Engineering on LLM
