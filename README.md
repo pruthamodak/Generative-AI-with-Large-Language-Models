@@ -1,8 +1,8 @@
-# Generative-AI-with-Large-Language-Models 
-(Coursera_Generative-AI-with-Large-Language-Models.pdf)
+# Generative AI with Large Language Models 
+[Coursera Certificate](Coursera_Generative-AI-with-Large-Language-Models.pdf)
 
 ## Week 1 Lab: 
-LLMs, Pre training and Prompt Engineering
+Pre-training and Prompt Engineering on LLM
 ## Week 2 Lab: 
 Full Fine Tuning and Parameter-Efficient Fine-Tuning (PEFT) on LLM
 ## Week 3 Lab: 
